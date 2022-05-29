@@ -8,17 +8,17 @@ OTA é um abreviação das palavras americanas `Over the Air` ou em tradução l
 
 - [x] O que soluciona
 - [x] Problemas
-- [ ] O que é o NodeMCU
-- [ ] Configurando
+- [x] O que é o NodeMCU
+- [x] Configurando
 
 ### Como Configurar a IDE
 
-- [ ] Configuração da IDE:
+- [x] Configuração da IDE:
 
 ```url
     https://arduino.esp8266.com/stable/package_esp8266com_index.json,
     https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json
 ```
 
-- [ ] Configurar para que o OTA seja sempre enviado
-- [ ] ArduinoOTA
+- [x] Configurar para que o OTA seja sempre enviado
+- [x] ArduinoOTA
